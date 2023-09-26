@@ -52,7 +52,7 @@ Using a Universal Power Adapter:
 in Europe may vary. The implementation details (e.g., plug shape) can differ, but the common 
 interface (using the adapter) remains the same.
 
-Handling Currency (Polymorphism): 
+Handling Currency (Polymorphism) : 
     Whether you're dealing with Swiss Francs in Switzerland or Euros in Italy, you're interacting 
 with the concept of currency in a consistent way. Different currencies are treated as instances of a 
 common currency interface, allowing for flexibility and uniformity in your financial transactions.
