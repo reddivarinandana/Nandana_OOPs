@@ -1,0 +1,49 @@
+Customized Itinerary: Design a travel itinerary for a friend who has different preferences than you. How
+would you ensure that your base plan (OOP) can be adapted to fit their needs (Design Principles)?
+
+My Plan : 
+    1 . Passport
+    2 . Tickets
+    3 . Clothing
+    4 . Toiletries
+    5 . Universal power adapter (suitable for European sockets)
+    6 . Medications and prescriptions
+    7 . Basic clothing items (weather-appropriate)
+    8 . Local map and guidebook
+    9 . Emergency contact information
+
+My Friend List : 
+
+    Base Travel Checklist Items (Inherited):
+        1 . Passport
+        2 . Tickets
+        3 . Clothing
+        4 . Toiletries
+        5 . Universal power adapter (suitable for European sockets)
+        6 . Medications and prescriptions
+        7 . Basic clothing items (weather-appropriate)
+        8 . Local map and guidebook
+        9 . Emergency contact information
+
+    Additional Items Based on My Friend's Preferences (Added):
+        1 . Camera (for photography enthusiasts)
+        2 . Laptop and charger (for work or entertainment)
+        3 . Special dietary items (for those with specific dietary needs)
+        4 . Sports equipment (for active travelers)
+        5 . Reading material (for bookworms)
+
+    Removed Items (Removed):
+        1 . Universal power adapter 
+        2 . Basic clothing items 
+        3 . Medications and prescriptions 
+        
+Final List : 
+    1 . Passport
+    2 . Tickets
+    3 . Toiletries
+    4 . Local Map and guidebook
+    5 . Emergency contact information
+    6 . Camera
+    7 . Laptop and charger
+    8 . Special dietary items
+    9 . Reading material
